@@ -1,0 +1,18 @@
+{
+  "name": "async-await-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node async-await-demo",
+    "demo1": "node async-await-demo-get-value",
+    "demo2": "node async-await-err",
+    "demo3": "node async-fetch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
